@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: |cffa330c9LoveChat
+## Notes: |cffa330c9By NGA.
+## Author: NGA UID:11145796
+## Version: 0.0.1
+
+LoveChat.lua
